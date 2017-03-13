@@ -19,5 +19,5 @@ NODE JS - Backend FrameWork </br>
 http://localhost:3000/display to see the List of File Names uploaded <br />
 
 # Images Stored  <br />
-Images uploaded stored in uploads file.  <br />
+Images uploaded is  stored locally  in folder uploads.  <br />
  
