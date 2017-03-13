@@ -22,6 +22,6 @@ http://localhost:3000/display to see the List of File Names uploaded <br />
 Images uploaded is  stored locally  in folder uploads.  <br />
 
 #Preview 
-![alt tag](https://github.com/manikajan123/PhotoUploader_MM/filePreview.PNG) <br/>
-![alt tag](https://github.com/manikajan123/PhotoUploader_MM/filename.PNG)
+![Alt text](/filePreview.PNG?raw=true "Optional Title")
+![Alt text](/filename.PNG?raw=true "Optional Title")
  
