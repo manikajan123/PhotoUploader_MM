@@ -2,9 +2,9 @@
 
 # To Run
 
-1) git clone git@github.com:manikajan123/PhotoUploader_MM.git
-2)npm i
-3)cd client
-4)npm i
-5)cd ..
-6)npm start
+1) git clone git@github.com:manikajan123/PhotoUploader_MM.git <br />
+2)npm i <br />
+3)cd client <br />
+4)npm i <br />
+5)cd.. <br />
+6)npm start <br />
