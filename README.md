@@ -1,4 +1,4 @@
-# React App for Upload Images
+# React App to Upload Images
 
 # To Run
 
