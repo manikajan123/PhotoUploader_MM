@@ -41,7 +41,8 @@ app.get('/display' , function(req,res){
 	fs.readdir(p, function (err, files) {
 		if (err) {
 	        	return res.end("Error finding the fileNames.");
-	    	} //console.log(files);var fileNames = [];
+	    	} //console.log(files);
+		var fileNames = [];
 		for (var i=0; i<files.length; i++) {
 		        fileNames.push(files[i]);
 		 }
